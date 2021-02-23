@@ -1,4 +1,4 @@
-lukin kepeken toki ante: [English](../master/README.md "View in English"), [Русский](../master/README.ru-RU.md "Смотреть на русском")
+lukin kepeken toki ante: [English](../master/README.en_US.md "View in English"), [Русский](../master/README.ru-RU.md "Смотреть на русском")
 
 o, kama pona! ona li toki e jan Epiphany tawa mi. mi lawa e ilo nanpa li pali e sitelen tawa e sitelen e nasin sike wawa.
 
