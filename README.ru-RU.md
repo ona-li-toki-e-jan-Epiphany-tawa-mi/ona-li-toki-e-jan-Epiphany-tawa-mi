@@ -1,4 +1,4 @@
-Смотреть на другом языке: [English](../master/README.en_US.md "View in English"), [toki pona](../master/README.md "lukin kepeken toki pona")
+Смотреть на другом языке: [toki pona](../master/README.md "lukin kepeken toki pona"), [English](../master/README.en_US.md "View in English")
 
 Добро пожаловать! Меня зовут Эпифаний. Я программирую и создаю видео, рисования и цепи.
 
