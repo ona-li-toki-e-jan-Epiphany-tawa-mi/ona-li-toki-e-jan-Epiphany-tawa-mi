@@ -7,6 +7,10 @@
 создаю картинки, рисую<br>
 и проектирую и создаю цепи.
 
-Мой канал Ютуба: https://www.youtube.com/channel/UCR7K1lImkPi-lXkRq3V7Jjw<br>
-Мой канал БитШута: https://www.bitchute.com/channel/wAyz4WmIS0KE<br>
-Мой профиль CodePen: https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi
+Мой канал Ютуба:<br>
+https://www.youtube.com/channel/UCR7K1lImkPi-lXkRq3V7Jjw<br>
+Мой канал БитШута:<br>
+https://www.bitchute.com/channel/wAyz4WmIS0KE<br>
+https://www.bitchute.com/accounts/referral/ona_li_toki_e_jan_epiphany_tawa_mi<br>
+Мой профиль CodePen:<br>
+https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi
