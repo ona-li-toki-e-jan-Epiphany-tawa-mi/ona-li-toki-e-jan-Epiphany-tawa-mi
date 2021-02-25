@@ -2,9 +2,9 @@ lukin kepeken toki ante: [English](../master/README.en_US.md "View in English"),
 
 o, kama pona! ona li toki e jan Epiphany tawa mi. mi toki e toki pona e toki Inli e toki Losi.
 
-mi lawa e ilo nanpa kepeken toki Java (en, toki Bytecode ona) en toki JavaScript en toki C++ en toki Python
-li pali e sitelen tawa
-li pali e sitelen li sitelen
+mi lawa e ilo nanpa kepeken toki Java (en, toki Bytecode ona) en toki JavaScript en toki C++ en toki Python<br>
+li pali e sitelen tawa<br>
+li pali e sitelen li sitelen<br>
 li pali e nasin sike wawa.
 
 lipu mi YouTube: https://www.youtube.com/channel/UCR7K1lImkPi-lXkRq3V7Jjw <br>
