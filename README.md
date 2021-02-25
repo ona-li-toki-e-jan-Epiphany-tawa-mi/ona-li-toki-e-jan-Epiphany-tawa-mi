@@ -1,8 +1,11 @@
 lukin kepeken toki ante: [English](../master/README.en_US.md "View in English"), [Русский](../master/README.ru-RU.md "Смотреть на русском")
 
-o, kama pona! ona li toki e jan Epiphany tawa mi. mi lawa e ilo nanpa li pali e sitelen tawa e sitelen e nasin sike wawa.
+o, kama pona! ona li toki e jan Epiphany tawa mi. mi toki e toki pona e toki Inli e toki Losi.
 
-mi kepeken e toki Java (en, e toki Bytecode ona) e toki JavaScript e toki C++ e toki Python.
+mi lawa e ilo nanpa kepeken toki Java (en, toki Bytecode ona) en toki JavaScript en toki C++ en toki Python
+li pali e sitelen tawa
+li pali e sitelen li sitelen
+li pali e nasin sike wawa.
 
 lipu mi YouTube: https://www.youtube.com/channel/UCR7K1lImkPi-lXkRq3V7Jjw <br>
 lipu mi BitChute: https://www.bitchute.com/channel/wAyz4WmIS0KE <br>
