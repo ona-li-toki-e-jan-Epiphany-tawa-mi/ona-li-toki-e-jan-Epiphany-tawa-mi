@@ -7,6 +7,9 @@ li pali e sitelen tawa<br>
 li pali e sitelen li sitelen<br>
 li pali e nasin sike wawa.
 
-lipu mi YouTube: https://www.youtube.com/channel/UCR7K1lImkPi-lXkRq3V7Jjw <br>
-lipu mi BitChute: https://www.bitchute.com/channel/wAyz4WmIS0KE <br>
-lipu mi CodePen: https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi
+lipu mi YouTube:<br>
+https://www.youtube.com/channel/UCR7K1lImkPi-lXkRq3V7Jjw<br>
+lipu mi BitChute:<br>
+https://www.bitchute.com/channel/wAyz4WmIS0KE<br>
+lipu mi CodePen: https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi<br>
+https://www.bitchute.com/accounts/referral/ona_li_toki_e_jan_epiphany_tawa_mi
