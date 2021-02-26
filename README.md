@@ -15,6 +15,4 @@ https://www.bitchute.com/accounts/referral/ona_li_toki_e_jan_epiphany_tawa_mi<br
 lipu mi CodePen:<br>
 https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi
 
-<div align="center">
-  <img src="../sitelen-pona.svg" width="800" height="400">
-</div>
+<img src="sitelen_pona.svg" width="800" height="400">
