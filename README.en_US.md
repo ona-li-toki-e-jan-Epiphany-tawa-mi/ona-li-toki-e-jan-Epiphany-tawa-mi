@@ -10,6 +10,9 @@ https://www.youtube.com/channel/UCR7K1lImkPi-lXkRq3V7Jjw<br>
 https://www.bitchute.com/channel/wAyz4WmIS0KE<br>
 https://www.bitchute.com/accounts/referral/ona_li_toki_e_jan_epiphany_tawa_mi<br>
 My CodePen profile:<br>
-https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi
+https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi<br>
+My VKontakte profile:<br>
+https://vk.com/jan_epiphany
+
 
 jan sewi li lawa e ilo nanpa kepeken toki Java.
