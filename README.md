@@ -6,7 +6,8 @@ o, kama pona! ona li toki e jan Epiphany tawa mi. mi toki e toki pona e toki Inl
 mi lawa e ilo nanpa kepeken toki Java (en, toki Bytecode ona) en toki JavaScript en toki C++ en toki Python<br>
 li pali e sitelen tawa<br>
 li pali e sitelen li sitelen<br>
-li pali e nasin sike wawa.
+li pali e nasin sike wawa<br>
+li ijo mute ante.
 
 
 lipu mi YouTube:<br>
