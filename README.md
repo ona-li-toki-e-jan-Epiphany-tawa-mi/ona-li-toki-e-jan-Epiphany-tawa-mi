@@ -17,7 +17,7 @@ https://www.bitchute.com/channel/wAyz4WmIS0KE<br>
 https://www.bitchute.com/accounts/referral/ona_li_toki_e_jan_epiphany_tawa_mi<br>
 lipu mi KoPen:<br>
 https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi<br>
-lipu mi Kantate:<br>
+lipu mi Kontate:<br>
 https://vk.com/jan_epiphany
 
 
