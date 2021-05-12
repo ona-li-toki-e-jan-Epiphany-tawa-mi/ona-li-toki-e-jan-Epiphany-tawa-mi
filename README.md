@@ -1,7 +1,7 @@
 lukin kepeken toki ante: [English](../master/README.en_US.md "View in English"), [Русский](../master/README.ru-RU.md "Смотреть на русском")
 
 
-o, kama pona! ona li toki e jan Epiphany (Epipani) tawa mi. mi toki e toki pona e toki Inli e toki Losi.
+o, kama pona! ona li toki e jan Epipani (Epiphany) tawa mi. mi toki e toki pona e toki Inli e toki Losi.
 
 mi lawa e ilo nanpa kepeken toki Jawa (Java) (en toki Bateko (Bytecode) ona) en toki JawaSipu (JavaScript) en toki Si++ (C++) en toki Paton (Python)<br>
 li pali e sitelen tawa<br>
