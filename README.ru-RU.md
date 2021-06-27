@@ -19,7 +19,8 @@ https://www.bitchute.com/accounts/referral/ona_li_toki_e_jan_epiphany_tawa_mi<br
 Мой профиль CodePen:<br>
 https://codepen.io/ona-li-toki-e-jan-Epiphany-tawa-mi<br>
 Мой профиль ВКонтакте:<br>
-https://vk.com/jan_epiphany
-
+https://vk.com/jan_epiphany<br>
+Мой профиль Тингиверса:<br>
+https://www.thingiverse.com/jan_epiphany/designs
 
 jan sewi li lawa e ilo nanpa kepeken toki Java.
