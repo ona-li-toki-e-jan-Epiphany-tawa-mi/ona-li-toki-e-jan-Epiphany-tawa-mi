@@ -2,8 +2,8 @@ Ex nihilo, tōtum.
 
 Personal git server:
 
-- I2P: http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p
-- Tor: http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion
+- I2P: http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/cgit
+- Tor: http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/cgit
 
 netcatchat server (COMPLETELY UNMODERATED): 6ay2f2mmkogzz6mwcaxjttxl4jydnskavfaxgumeptwhhdjum3i6n3id.onion port 2000
 
@@ -20,6 +20,6 @@ Third party platforms:
 
 For information on what in tarnation a "netcatchat server" is, please visit one of the following links:
 
-- I2P: http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/netcatchat.git/about
-- Tor: http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/netcatchat.git/about
+- I2P: http://oytjumugnwsf4g72vemtamo72vfvgmp4lfsf6wmggcvba3qmcsta.b32.i2p/cgit/netcatchat.git/about
+- Tor: http://4blcq4arxhbkc77tfrtmy4pptf55gjbhlj32rbfyskl672v2plsmjcyd.onion/cgit/netcatchat.git/about
 - Clearnet: https://github.com/ona-li-toki-e-jan-Epiphany-tawa-mi/netcatchat
