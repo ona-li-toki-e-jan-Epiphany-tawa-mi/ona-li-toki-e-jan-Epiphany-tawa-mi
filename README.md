@@ -8,7 +8,6 @@ Personal website:
 
 Third party platforms:
 
-- PyPI: [https://pypi.org/user/ona_li_toki_e_jan_Epiphany_tawa_mi](https://pypi.org/user/ona_li_toki_e_jan_Epiphany_tawa_mi)
 - npm: [https://www.npmjs.com/~ona-li-toki-e-jan-epiphany-tawa-mi](https://www.npmjs.com/~ona-li-toki-e-jan-epiphany-tawa-mi)
 - Thingiverse: [https://www.thingiverse.com/jan_epiphany/designs](https://www.thingiverse.com/jan_epiphany/designs)
 - Luanti ContentDB: [https://content.luanti.org/users/ona-li-toki-e-jan-Epiphany-tawa-mi](https://content.minetest.net/users/ona-li-toki-e-jan-Epiphany-tawa-mi)
