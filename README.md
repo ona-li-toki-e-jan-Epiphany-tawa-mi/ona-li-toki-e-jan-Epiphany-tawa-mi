@@ -10,6 +10,6 @@ Third party platforms:
 
 - npm: [https://www.npmjs.com/~ona-li-toki-e-jan-epiphany-tawa-mi](https://www.npmjs.com/~ona-li-toki-e-jan-epiphany-tawa-mi)
 - Thingiverse: [https://www.thingiverse.com/jan_epiphany/designs](https://www.thingiverse.com/jan_epiphany/designs)
-- Luanti ContentDB: [https://content.luanti.org/users/ona-li-toki-e-jan-Epiphany-tawa-mi](https://content.minetest.net/users/ona-li-toki-e-jan-Epiphany-tawa-mi)
+- Luanti ContentDB: [https://content.luanti.org/users/ona-li-toki-e-jan-Epiphany-tawa-mi](https://content.luanti.org/users/ona-li-toki-e-jan-Epiphany-tawa-mi)
 
 !τερεμεμτιξαν πγργηκομπτελβεβ μα'!ξαδα.
