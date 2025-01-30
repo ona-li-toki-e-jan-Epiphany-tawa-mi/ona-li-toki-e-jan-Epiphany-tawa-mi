@@ -8,7 +8,6 @@ Personal website:
 
 Third party platforms:
 
-- Thingiverse: [https://www.thingiverse.com/jan_epiphany/designs](https://www.thingiverse.com/jan_epiphany/designs)
 - Luanti ContentDB: [https://content.luanti.org/users/ona-li-toki-e-jan-Epiphany-tawa-mi](https://content.luanti.org/users/ona-li-toki-e-jan-Epiphany-tawa-mi)
 
 !τερεμεμτιξαν πγργηκομπτελβεβ μα'!ξαδα.
